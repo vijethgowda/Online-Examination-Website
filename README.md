@@ -20,7 +20,7 @@ visualization of result and analysis.
 <img src="Demo/admindash1.jpeg" width="500" height="400">
 <img src="Demo/teachdash.jpeg" width="500" height="400">
 <img src="Demo/teachlogin.jpeg" width="500" height="400">
-<img src="Demo/group.png" width="500" height="400">
+
 
 ## Deployment
 This online examination site was intially deployed in hostinger web hosting
@@ -31,6 +31,7 @@ inconsistency by centeralizing the process onto a Database.
 
 ## Built With
 <img src="Demo/imple.jpeg" width="500" height="400">
+
 * **Architectural Model**
 The model chosen for implementation is Hybrid Model. Layered approach is
 followed in internal software design. Client Server Architecture is employed
